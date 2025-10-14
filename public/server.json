@@ -1,0 +1,185 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "title": "Top 10 ES6 Features You Must Know",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Hamza Sohail",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "beginners",
+            "es6"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "author": "Sajal Ali",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
+        "hashtags": [
+            "javascript",
+            "coding",
+            "dev"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
+        "title": "Component lifecycle in React — Class component vs Functional component",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "author": "Feroze Khan",
+        "posted_date": "July 10, 2023",
+        "reading_time": 10,
+        "hashtags": [
+            "mid_level",
+            "react"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+        "title": "Free images and resources collection for website",
+        "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+        "author": "Anmol Baloch",
+        "posted_date": "June 5, 2023",
+        "reading_time": 9,
+        "hashtags": [
+            "development",
+            "resources"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/0FDvJqP/5.jpg",
+        "title": "Understanding Async/Await in JavaScript with Real Examples",
+        "author_img": "https://i.ibb.co/BCHNRxH/boy3.jpg",
+        "author": "Talha Ahmed",
+        "posted_date": "May 22, 2023",
+        "reading_time": 6,
+        "hashtags": [
+            "async",
+            "javascript"
+        ]
+    },
+    {
+        "id": 6,
+        "cover": "https://i.ibb.co/fpRgK0y/6.jpg",
+        "title": "How React Hooks Changed the Way We Code",
+        "author_img": "https://i.ibb.co/Y2pwFdB/girl3.jpg",
+        "author": "Ayesha Noor",
+        "posted_date": "April 11, 2023",
+        "reading_time": 8,
+        "hashtags": [
+            "hooks",
+            "react"
+        ]
+    },
+    {
+        "id": 7,
+        "cover": "https://i.ibb.co/BgC3mLt/7.jpg",
+        "title": "Top 5 Mistakes New Developers Make in JavaScript",
+        "author_img": "https://i.ibb.co/xSnVN3G/boy4.jpg",
+        "author": "Usman Tariq",
+        "posted_date": "March 17, 2023",
+        "reading_time": 5,
+        "hashtags": [
+            "mistakes",
+            "beginners"
+        ]
+    },
+    {
+        "id": 8,
+        "cover": "https://i.ibb.co/DwTPwHD/8.jpg",
+        "title": "Tailwind CSS: Building Responsive Layouts Fast",
+        "author_img": "https://i.ibb.co/ZK7VgKk/girl4.jpg",
+        "author": "Hira Sheikh",
+        "posted_date": "February 14, 2023",
+        "reading_time": 7,
+        "hashtags": [
+            "tailwind",
+            "frontend"
+        ]
+    },
+    {
+        "id": 9,
+        "cover": "https://i.ibb.co/x6dnLxP/9.jpg",
+        "title": "The Power of Fetch API: Simplifying Data Requests",
+        "author_img": "https://i.ibb.co/fQbyzM7/boy5.jpg",
+        "author": "Imran Qureshi",
+        "posted_date": "January 5, 2023",
+        "reading_time": 6,
+        "hashtags": [
+            "fetch",
+            "api"
+        ]
+    },
+    {
+        "id": 10,
+        "cover": "https://i.ibb.co/khT5jKH/10.jpg",
+        "title": "State Management in React: Context API vs Redux",
+        "author_img": "https://i.ibb.co/Kw8Nnws/girl5.jpg",
+        "author": "Sana Malik",
+        "posted_date": "December 19, 2022",
+        "reading_time": 9,
+        "hashtags": [
+            "state",
+            "react"
+        ]
+    },
+    {
+        "id": 11,
+        "cover": "https://i.ibb.co/yyLMn2r/11.jpg",
+        "title": "Debounce and Throttle Explained Like You’re 5",
+        "author_img": "https://i.ibb.co/ChhsX1W/boy6.jpg",
+        "author": "Rafay Khan",
+        "posted_date": "November 2, 2022",
+        "reading_time": 4,
+        "hashtags": [
+            "performance",
+            "javascript"
+        ]
+    },
+    {
+        "id": 12,
+        "cover": "https://i.ibb.co/fY2RgLZ/12.jpg",
+        "title": "Understanding Virtual DOM and How It Works",
+        "author_img": "https://i.ibb.co/qYpxz5x/girl6.jpg",
+        "author": "Mehak Javed",
+        "posted_date": "October 9, 2022",
+        "reading_time": 8,
+        "hashtags": [
+            "virtualdom",
+            "react"
+        ]
+    },
+    {
+        "id": 13,
+        "cover": "https://i.ibb.co/RbkHd4z/13.jpg",
+        "title": "Why You Should Learn TypeScript in 2025",
+        "author_img": "https://i.ibb.co/XZvvDb7/boy7.jpg",
+        "author": "Hassan Raza",
+        "posted_date": "September 1, 2022",
+        "reading_time": 6,
+        "hashtags": [
+            "typescript",
+            "javascript"
+        ]
+    },
+    {
+        "id": 14,
+        "cover": "https://i.ibb.co/HTbmBbr/14.jpg",
+        "title": "Mastering Array Methods: Map, Filter, Reduce",
+        "author_img": "https://i.ibb.co/3y2rmLy/girl7.jpg",
+        "author": "Zara Iqbal",
+        "posted_date": "August 10, 2022",
+        "reading_time": 7,
+        "hashtags": [
+            "arrays",
+            "js"
+        ]
+    }
+]
