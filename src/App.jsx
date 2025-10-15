@@ -1,9 +1,10 @@
 import React from 'react'
+import Layout from './componants/Layout/Layout'
 
 export default function App() {
   return (
     <div>
-      <h1 className='text-orange-500' ></h1>
+     <Layout></Layout>
     </div>
   )
 }
